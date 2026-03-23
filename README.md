@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Machine+Learning+Enthusiast;DSA+Learner;Open+Source+Contributor&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 ---
