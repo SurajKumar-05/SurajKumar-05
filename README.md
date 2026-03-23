@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/Suraj" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.linkedin.com/in/surajsu/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="mailto:surajgupta11.skg@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <a href="https://github.com/SurajKumar-05"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
@@ -105,10 +105,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajKumar-05&theme=onedark" />
-</p>
+
 
 ---
 
